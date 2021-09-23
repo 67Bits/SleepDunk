@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Personaje
+  - ControlNivel
+  - ControlJuego
+  - Efectos
+  - FxTemporaire
+  - PisoPiso
   layers:
   - Default
   - TransparentFX
@@ -15,21 +22,21 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Esferapersonaje
+  - Meta
+  - Trampolin
+  - Piso
+  - ObjetoPega
+  - Personaje
+  - CharcoMalo
+  - CharcoBueno
+  - PiscinaMala
+  - PiscinaBuena
+  - ElementoEscenario
+  - Enemigo
+  - Pared
+  - Multiplicador
+  - Meta2
   - 
   - 
   - 
